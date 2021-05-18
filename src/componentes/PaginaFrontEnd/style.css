@@ -1,0 +1,16 @@
+.front h1{
+    font-weight: 500;
+    filter: drop-shadow(1px 1px 1px rgb(161, 161, 161));
+    color: rgb(20, 20, 20);
+}
+
+.front p{
+    margin: 20px;
+    max-width: 700px;
+    text-align: justify;
+}
+
+.front a[href="https://www.devmedia.com.br/react/"]{
+    text-decoration: none;
+    color: rgb(146, 146, 146);
+}

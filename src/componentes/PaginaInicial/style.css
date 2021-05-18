@@ -1,0 +1,39 @@
+.tittle_init{
+  font-weight: 500;
+  filter: drop-shadow(1px 1px 1px rgb(161, 161, 161));
+  color: rgb(20, 20, 20);
+}
+
+.conteudo-opcoes{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.conteudo-opcoes a {
+  padding: 20px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.opcao-front-end{
+  background-color: #313131;
+  color: rgb(255, 255, 255);
+  border-radius: 0 15px;
+  box-shadow: 1px 5px 10px 1px rgba(0, 0, 0,0.3);
+}
+
+.opcao-front-end:hover{
+  transform: scale(1.05);
+}
+
+.opcao-back-end{
+  background-color: #ffffff;
+  color: rgb(20, 20, 20);
+  border-radius: 0 15px;
+  box-shadow: 1px 5px 10px 1px rgba(0, 0, 0,0.3);
+}
+
+.opcao-back-end:hover{
+  transform: scale(1.05);
+}
