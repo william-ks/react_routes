@@ -1,6 +1,6 @@
 # Rotas_React
 Este é um simples projeto, aprendendo a utilizar o React-router-dom, 
-esse prjeto foi inspirado pelo curso da devMidia!
+esse projeto foi inspirado pelo curso da devMidia!
 
 Link para ver funcionamento: https://route-with-react.netlify.app/
 
