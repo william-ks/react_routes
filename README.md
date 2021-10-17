@@ -8,4 +8,4 @@ Link para ver funcionamento: https://route-with-react.netlify.app/
 ![image](https://user-images.githubusercontent.com/43452688/118671087-8c013480-b7cd-11eb-84be-472a70c878a5.png)
 ![image](https://user-images.githubusercontent.com/43452688/118671124-958a9c80-b7cd-11eb-936c-01efc17b8c2d.png)
 
-É um simples projeto, porém, que mostra de forma simples como utilizar rotas no react.
+É um simples projeto, porém, que mostra como funciona as rotas no react.
